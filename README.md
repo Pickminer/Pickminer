@@ -14,7 +14,7 @@
 
 <h2>Usage</h2>
 
-<p>Pickminer is an easy-to-use mining software where you can easily manage your mining (templates and overclocking). If you need some help to use it, we suggest you read our <a href="https://pickminer.com/blog/set-up-your-mining-with-pickminer/">tutorial</a>.</p>
+<p>Pickminer is an easy-to-use mining software where you can easily manage your mining (templates and overclocking) thanks to the user interface. If you need some help to use it, we suggest you read our <a href="https://pickminer.com/blog/set-up-your-mining-with-pickminer/">tutorial</a>.</p>
 
 <h2>Frequently asked questions</h2>
 
