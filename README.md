@@ -31,7 +31,7 @@ Once we find a clean result, we will activate this option, so Linux users can en
 <div>
   <p><b>Mail</b> - <b>support@pickminer.com</b></p>
   <p><b>Official website</b> - <a href="https://pickminer.com">https://pickminer.com</a></p>
-  <p><b>BitcoinTalk Topic</b> - <a href="https://pickminer.com">...</a></p>
+  <p><b>BitcoinTalk Topic</b> - <a href="https://bitcointalk.org/index.php?topic=5422586.0">https://bitcointalk.org/index.php?topic=5422586.0</a></p>
   <p><b>Discord</b> - <a href="https://discord.gg/VUNGF8r9BS">Pickminer Server</a></p>
   <p><b>Reddit</b> - <a href="https://www.reddit.com/r/pickminer/">SubReddit</a> & <a href="https://www.reddit.com/user/pickminermining/">Account</a></p>
   <p><b>Twitter</b> - <a href="https://twitter.com/pickminer">https://twitter.com/pickminer</a></p>
