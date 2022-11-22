@@ -1,6 +1,6 @@
 <h1>Pickminer - NVIDIA Ravencoin mining software</h1>
 
-<p>Pickminer is an all-in-one NVIDIA mining software currently on Windows and Linux. You can enjoy your mining by creating templates, setting up their overclocking, and monitoring your ongoing mining thanks to detailed statistics. The whole is integrated into a friendly and ergonomic user interface. Currently on Ravencoin, it is planned to add more Proof of Work cryptocurrencies and mining OS compatibility later.</p>
+<p>Pickminer is an all-in-one NVIDIA mining software currently on Windows and Linux. You can enjoy your mining by creating templates, setting up your overclocking, and monitoring your ongoing mining thanks to detailed statistics. The whole is integrated into a friendly and ergonomic user interface. Currently on Ravencoin, it is planned to add more Proof of Work cryptocurrencies and mining OS compatibility later.</p>
 
 <h2>Features</h2>
 
