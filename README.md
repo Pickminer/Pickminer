@@ -6,7 +6,7 @@
 
 <ul>
   <li>Support Windows & Linux</li>
-  <li>NVIDIA compatible - <i>Windows v452.39 & Linux v450.80.02</i></li>
+  <li>NVIDIA compatible - <i>Windows v527.41 & Linux v525.60.13</i></li>
   <li>Ravencoin mining</li>
   <li>Integrated overclocking tool</li>
   <li>User interface</li>
