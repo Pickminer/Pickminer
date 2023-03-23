@@ -7,6 +7,7 @@
 <ul>
   <li>Support Windows & Linux</li>
   <li>NVIDIA compatible - <i>Windows v527.41 & Linux v525.60.13</i></li>
+  <li>AMD compatible </li>
   <li>Ravencoin mining</li>
   <li>Integrated overclocking tool</li>
   <li>User interface</li>
@@ -24,7 +25,6 @@
 
 Once we find a clean result, we will activate this option, so Linux users can enjoy the same features as Windows users.
 </p></div>
-<div><b>Why I can’t mine with AMD cards on Pickminer?</b><p>Pickminer is not yet compatible with AMD cards. It is planned to be AMD-friendly in the upcoming months.</p></div>
 
 
 <h2>Links</h2>
