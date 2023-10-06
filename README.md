@@ -13,7 +13,7 @@
   <li>User interface</li>
 </ul>
 
-<h2>Coins</h2>h2
+<h2>Coins</h2>
 <ul>
   <li>RVN</li>
   <li>FIRO</li>
