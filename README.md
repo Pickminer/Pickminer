@@ -17,6 +17,7 @@
 <ul>
   <li>RVN</li>
   <li>FIRO</li>
+  <li>CLORE</li>
   <li>NEOXA</li>
   <li>MEWC</li>
   <li>SATO</li>
